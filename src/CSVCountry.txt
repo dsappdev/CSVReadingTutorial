@@ -1,0 +1,5 @@
+10	AU	Australia
+"11"	"AU"	"Australia"
+"12"	"AU"	"Aus""tralia"
+13	AU	Aus""tralia
+"14"	"AU"	"Aus,tralia"
